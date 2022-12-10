@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "CUBOOLAP", "CUBOOLAP.dwproj", "{EE5DF3C4-52C9-488C-AEAB-A79B4AD6F49A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE5DF3C4-52C9-488C-AEAB-A79B4AD6F49A}.Development|Default.ActiveCfg = Development
+		{EE5DF3C4-52C9-488C-AEAB-A79B4AD6F49A}.Development|Default.Build.0 = Development
+		{EE5DF3C4-52C9-488C-AEAB-A79B4AD6F49A}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17394159-AE3B-43BD-B58E-9B914A6141C6}
+	EndGlobalSection
+EndGlobal
